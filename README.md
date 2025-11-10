@@ -1,2 +1,10 @@
 # Question2-Exam
 PROG6112
+
+DATA LOG
+*****************************
+Total Sales: 2200
+Average Sales: 367
+Sales over limit: 2
+Sales under limit: 4
+*****************************
